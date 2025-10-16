@@ -2,7 +2,7 @@
 # [jasoso-ai](https://jasoso-ai.store)
 RAG를 활용한 자소서 생성 서비스
 
-backend-repo: https://github.com/kkkkimtaehyeon/jasosoAI_server
+backend-repo: https://github.com/kkkkimtaehyeon/jasoso_ai_server
 
 frontend-repo: https://github.com/kkkkimtaehyeon/jasoso_ai_front
 
